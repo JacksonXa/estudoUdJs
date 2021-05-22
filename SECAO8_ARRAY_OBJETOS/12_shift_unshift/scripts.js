@@ -17,7 +17,9 @@ console.log(removerPrimeiraMoto);
 console.log(motos);
 
 //Adiciona um marca de motos ao inicio do array e retorna no coonsole
+//a moto adicionada e o como ficou o array
 motos.unshift('Dafra');
+console.log(motos[0])
 console.log(motos)
 
 
